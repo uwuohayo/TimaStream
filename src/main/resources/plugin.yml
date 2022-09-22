@@ -1,0 +1,8 @@
+name: TimaStream
+version: '${project.version}'
+main: ovh.rootkovskiy.timastream.Main
+authors: [ timurroot ]
+description: Simple stream announcements plugin
+website: www.rootkovskiy.ovh
+commands:
+  stream: {}
